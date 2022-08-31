@@ -1,2 +1,0 @@
-# Chromatic
-My Chromatic Folder
